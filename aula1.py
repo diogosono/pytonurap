@@ -1,0 +1,5 @@
+print ('olá, mundo')
+print ('Gosto de Strogonoff')
+print ('stou com sono')
+print ('print print print')
+print ('lula')
